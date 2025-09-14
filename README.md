@@ -50,9 +50,11 @@ The assignment was to **recreate the provided design pixel-perfect** using **Nex
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/tech-internship-assignment.git
+git clone https://github.com/CasManny/cartolinks-intern-assignment.git
 
-cd tech-internship-assignment
+cd cartolinks-intern-assignment
 
 npm install
+
+npm run dev
 
