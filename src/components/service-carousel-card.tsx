@@ -24,7 +24,7 @@ export const CarouselCard: React.FC<CarouselCardProps> = ({
 }) => {
   return (
     <div
-      className={`relative h-96 w-full shrink-0 overflow-hidden rounded-xl md:h-[28rem] ${className}`}
+      className={`relative min-h-[24rem] w-full shrink-0 overflow-hidden rounded-xl md:h-[28rem] ${className}`}
     >
       {/* Background image */}
       <div
@@ -37,19 +37,19 @@ export const CarouselCard: React.FC<CarouselCardProps> = ({
       {/* Content */}
       <div className="absolute inset-0 flex flex-col justify-between p-6 text-white md:p-10">
         {/* Centered Title */}
-        <div className="mt-30 flex flex-1 items-center justify-center">
+        <div className="mt-10 flex flex-1 items-center justify-center md:mt-30">
           <h3 className="text-center text-3xl font-extrabold md:text-5xl">
             {title}
           </h3>
         </div>
 
         {/* Subtitle + Desc at Bottom */}
-        <div className="flex items-center justify-between">
+        <div className="flex flex-col items-center justify-between gap-2 md:flex-row">
           <div>
             <h4 className="text-lg font-semibold text-white md:text-2xl">
               {subtitle}
             </h4>
-            <p className="mt-3 max-w-xl text-base text-gray-100 md:text-lg">
+            <p className="mt-3 max-w-xl text-sm text-gray-100 md:text-lg">
               {desc}
             </p>
           </div>

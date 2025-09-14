@@ -18,7 +18,7 @@ export const SupportLinks = () => {
         ))}
       </div>
       <ModeToggle />
-      <div className="flex h-8 w-8 items-center justify-center rounded-full bg-[radial-gradient(circle,#ECCDF4_0%,#C5C9F8_100%)]" />
+      <div className="hidden h-8 w-8 items-center lg:flex justify-center rounded-full bg-[radial-gradient(circle,#ECCDF4_0%,#C5C9F8_100%)]" />
     </div>
   );
 };

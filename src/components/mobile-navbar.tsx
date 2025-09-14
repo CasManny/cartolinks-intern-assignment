@@ -29,7 +29,7 @@ export const MobileNavbar = () => {
       </SheetTrigger>
       <SheetContent className="overflow-scroll pb-10">
         <SheetHeader className="">
-          <SheetTitle className="text-2xl font-bold">Keras AI</SheetTitle>
+          <SheetTitle className="text-2xl font-bold">Krea AI</SheetTitle>
           <SheetDescription className="sr-only">mobile navbar</SheetDescription>
         </SheetHeader>
         <div className="px-5 pt-2">

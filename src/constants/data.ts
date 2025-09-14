@@ -94,60 +94,60 @@ export const services: Service[] = [
   {
     title: "Motion Transfer",
     subtitle: "Introducing Motion Transfer",
-    desc: "Bring motion into your characters effortlessly. Upload any static image, record a short video of yourself or another subject, and see your character replicate expressions, gestures, and movements. Powered by Runway Act 2, this tool makes animation intuitive and fast for content creators and game developers.",
+    desc: "Bring motion into your characters effortlessly. Upload any static image, record a short video of yourself or another subject, and see your character replicate expressions, gestures, and movements.",
     image: "/nature.png",
     buttonText: "Try Now"
   },
   {
     title: "WAN 2.2",
     subtitle: "WAN 2.2 Image Generation",
-    desc: "Generate highly detailed and realistic images from text prompts using the WAN 2.2 model. This model excels in prompt adherence, photorealistic textures, and intricate details, making it ideal for concept art, marketing visuals, and creative design exploration.",
+    desc: "Generate highly detailed and realistic images from text prompts using the WAN 2.2 model. This model excels in prompt adherence, photorealistic textures, and intricate details.",
     image: "/video.png",
     buttonText: "Try WAN 2.2"
   },
   {
     title: "Image Upscaler",
     subtitle: "Upscale Images Instantly",
-    desc: "Enhance the resolution of your images without losing quality. Our upscaler uses AI to preserve fine details, textures, and edges, turning low-resolution images into print-ready assets or high-quality digital visuals. Perfect for photographers, designers, and social media content creators.",
+    desc: "Enhance the resolution of your images without losing quality. Our upscaler uses AI to preserve fine details, textures, and edges, turning low-resolution images into print-ready assets or high-quality digital visuals.",
     image: "/people.png",
   },
   {
     title: "Video Enhancer",
     subtitle: "Enhance Videos",
-    desc: "Automatically improve video quality with AI-powered enhancement. Reduce noise, sharpen details, enhance colors, and stabilize shaky footage to produce professional-grade videos. Ideal for content creators, filmmakers, and anyone looking to upgrade existing video assets.",
+    desc: "Automatically improve video quality with AI-powered enhancement. Reduce noise, sharpen details, enhance colors, and stabilize shaky footage to produce professional-grade videos.",
     image: "/make-video.jpg",
     buttonText: "Start Today"
   },
   {
     title: "Background Remover",
     subtitle: "Remove Backgrounds",
-    desc: "Easily remove backgrounds from images with precise edge detection. This tool works perfectly for product photography, portraits, or any creative project requiring a transparent or new background. Export in multiple formats for use in presentations, e-commerce, or social media.",
+    desc: "Easily remove backgrounds from images with precise edge detection. This tool works perfectly for product photography, portraits, or any creative project requiring a transparent or new background.",
     image: "/background-remover.jpg",
   },
   {
     title: "Text-to-Image",
     subtitle: "Generate Images from Text",
-    desc: "Turn text prompts into high-quality images instantly. Specify style, perspective, lighting, and mood to create illustrations, digital art, or marketing visuals. Ideal for artists, designers, and marketers looking for quick visual generation based on ideas.",
+    desc: "Turn text prompts into high-quality images instantly. Specify style, perspective, lighting, and mood to create illustrations, digital art, or marketing visuals.",
     image: "/text-image.png",
     buttonText: "Start Now"
   },
   {
     title: "Video Lipsync",
     subtitle: "Sync Audio to Video",
-    desc: "Automatically sync any voiceover or audio track to a video, aligning lip movements perfectly. This tool is great for dubbing, animation, and content localization, reducing manual effort and producing professional results quickly.",
+    desc: "Automatically sync any voiceover or audio track to a video, aligning lip movements perfectly. ",
     image: "/ai-1.jpg",
     buttonText: "Make Video"
   },
   {
     title: "Style Transfer",
     subtitle: "Apply Artistic Styles",
-    desc: "Transform photos or videos by applying the style of famous artists, paintings, or custom designs. This AI-powered tool allows you to experiment with unique visuals for creative projects, marketing materials, or social media content, keeping details intact while changing the aesthetic.",
+    desc: "Transform photos or videos by applying the style of famous artists, paintings, or custom designs.",
     image: "/transfer.jpg",
   },
   {
     title: "3D Object Generator",
     subtitle: "Generate 3D Models",
-    desc: "Create realistic 3D models from 2D images or sketches for use in games, VR/AR, animations, and 3D printing. The generator produces clean geometry and textures, enabling fast prototyping and creative exploration without extensive 3D modeling skills.",
+    desc: "Create realistic 3D models from 2D images or sketches for use in games, VR/AR, animations, and 3D printing.",
     image: "/3d.jpg",
     buttonText: "Start Now"
   },
