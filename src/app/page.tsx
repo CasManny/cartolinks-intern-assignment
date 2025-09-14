@@ -10,7 +10,7 @@ export default function Home() {
       <div className="flex min-h-screen flex-col">
         <div className="px-3">
           <Navbar />
-          <div className="lg:flex flex-col gap-4 lg:flex-row lg:gap-8 hidden">
+          <div className="flex flex-col gap-4 lg:flex-row lg:gap-8">
             <ChooseService />
             <SpecialOffer />
           </div>
